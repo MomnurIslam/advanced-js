@@ -1,3 +1,14 @@
+//Falsy
+
+//0
+//""
+//undefined
+//null
+
+//Truthy
+//'0' ' ' []
+
+
 const age = 4;
 
 if (age) {
@@ -7,3 +18,4 @@ if (age) {
 else{
     console.log("condition is false");
 }
+
